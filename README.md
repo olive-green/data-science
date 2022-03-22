@@ -1,1 +1,1 @@
-# data-science
+# data-science day to day activity
